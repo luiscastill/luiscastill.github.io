@@ -2220,3 +2220,8 @@ blockquote {
     font-size: 8px;
   }
 }
+
+
+a i.fa-linkedin:hover{
+  color: #ed5f5e;
+}
